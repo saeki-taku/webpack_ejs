@@ -1,0 +1,12 @@
+$text-color: #000;
+
+
+@import './header.scss';
+@import './footer.scss';
+
+
+body {
+  color: $text-color;
+}
+
+
